@@ -1,0 +1,59 @@
+/* links */
+.linkRegister {
+	display: block;
+	margin-top: 10%;
+}
+/* form connect, form register */
+.connect {
+	display: block;
+	width: 200px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 4%;
+	border-radius: 50%;
+	background-color: #64acf4;
+	padding-top: 50px;
+	color: #FFF;
+}
+.register {
+	display: block;
+	width: 200px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 4%;
+	border-radius: 50%;
+	background-color: #64acf4;
+	padding-top: 50px;
+	color: #FFF;
+}
+.formConnect, .formRegister {
+	text-align: center;
+	margin-top: 5%;
+	line-height: 2;
+}
+/* banniere et menu translate*/
+#banniere {
+	width: 100%;
+	height: 150px;
+	background-color: #64acf4;
+}
+.flag {
+	width: 50px;
+	height: 50px;
+	display: block;
+}
+#menu ul {
+	margin: 0;
+}
+#menu ul li {
+	display: inline-block;
+	margin-top: 2%;
+}
+#menu ul li:first-child{
+	margin-left: 88%;
+}
+#menu ul li:last-child{
+	margin-left: 2%;
+}
