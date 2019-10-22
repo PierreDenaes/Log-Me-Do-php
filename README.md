@@ -14,9 +14,8 @@ L'utilisateur doit pouvoir se connecter depuis la page d'accueil grâce à un fo
 Ses identifiants ne doivent pas apparaître dans l'URL
 Si l'utilisateur est identifié, il est redirigé vers la page "réservée" du site
 Sinon, il est redirigé vers la page d'accueil
-
-# 2 Translate me !
 ***
+# 2 Translate me !
 The pitch
 Créer une landing page "multi-langue" (français/anglais)
 
